@@ -1,5 +1,7 @@
-# pong
+
+# Fantasy Console: Pong!
 Die klassieker geskryf in Fantasy Console code<br/>
+<img src="https://github.com/pappavis/Pong/blob/master/plaatjes/pong_code.png?raw=true" width="50%" height="50%">
 
 ## How to run.
 1. Clone / download die code.<br/> 
