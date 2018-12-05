@@ -1,7 +1,7 @@
 
 # Fantasy Console: Pong 0.0.1
 Die klassieker geskryf in Fantasy Console code<br/>
-Coded in just 90 minutes!!
+Coded in just 90 minutes!!<br/>
 <img src="https://github.com/pappavis/Pong/blob/master/plaatjes/pong_code.png?raw=true" width="30%" height="30%">
 
 ## How to run.
